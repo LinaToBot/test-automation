@@ -18,3 +18,7 @@ npx playwright install
 npm run test:headed
 npm run report
 ```
+
+## Notes
+
+The report opens automatically at the end of the test
